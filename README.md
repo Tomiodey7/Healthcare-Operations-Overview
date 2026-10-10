@@ -16,4 +16,5 @@ Insights:
 - Length of Stay uniform across all medical condions(<2% difference)
 - Revenue balanced across 5 insurance providers
 
-<img width="1470" height="956" alt="HEALTHCARE DASHBOARD" src="https://github.com/user-attachments/assets/2108503f-b15b-4ea8-9d9f-a7bbb244c8b2" />
+<img width="1134" height="778" alt="Healthcare Dashboard" src="https://github.com/user-attachments/assets/4178c41c-3eba-4e82-973e-59611fd5bac0" />
+
